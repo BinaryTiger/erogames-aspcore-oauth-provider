@@ -7,7 +7,7 @@
     <PropertyGroup>
         <Description>ASP.NET Core security middleware enabling Erogames authentication</Description>
         <Authors>Antoine Racine</Authors>
-        <Version>0.3.0</Version>
+        <Version>0.4.0</Version>
         <PackageTags>aspnetcore;authentication;oauth;erogames;security</PackageTags>
         <PackageDescription>This package adds Erogames as an OAuth provider for ASP.net core web application</PackageDescription>
         <RepositoryUrl>https://github.com/BinaryTiger/erogames-aspcore-oauth-provider</RepositoryUrl>
@@ -17,5 +17,4 @@
         <FrameworkReference Include="Microsoft.AspNetCore.App" />
         <PackageReference Include="JetBrains.Annotations" PrivateAssets="All" />
     </ItemGroup>
-
 </Project>
